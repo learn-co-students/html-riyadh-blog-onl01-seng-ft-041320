@@ -72,6 +72,7 @@ a:hover {
 
 @media only screen and (max-width: 784px) {
   body {
+    font-family: 'Gabriela', serif;
     font-size: 120%;
   }
   h1 {
